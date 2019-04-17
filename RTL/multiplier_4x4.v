@@ -85,7 +85,7 @@ endmodule
 
 // Local Variables:
 // verilog-library-directories:(".")
-// verilog-library-flags:("-f /home/mauricio/Desktop/GIT_FIR_N/RTL/*")
+// verilog-library-flags:("-f /home/mauricio/Desktop/GIT_MULTIPLIER/RTL/*")
 // eval:(verilog-read-defines)
 // eval:(verilog-read-includes)
 // End:
