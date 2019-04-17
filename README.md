@@ -1,2 +1,2 @@
 # GIT_MULTIPLIER
-Parametric verdic multiplier
+Parametric vedic multiplier
